@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Hybeekraft Banner" width="100%" />
-
 ## 👋 Hi, I'm Hybeekraft
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer.;Building+beautiful+web+applications.;Next.js+%7C+Node.js+%7C+MongoDB+%7C+Supabase+%7C+AWS.;Creating+products+that+solve+real+problems." />
