@@ -51,6 +51,6 @@ https://sposhappeal.vercel.app
 
 #### ⭐ Thanks for stopping by!
 
-_"Code is more than writing software—it's about solving problems and creating impact."_
+_"Code is more than writing software, it's about solving problems and creating impact."_
 
 </div>
