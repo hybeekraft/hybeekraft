@@ -18,7 +18,8 @@ I enjoy transforming ideas into polished digital products with beautiful UI, cle
 ## 🛠 Languange and Tools:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,supabase,tailwind,aws,figma"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs
+express,mongodb,supabase,tailwind,aws,figma"/>
 
 </p>
 
