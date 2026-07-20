@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly, high-performance web applications.
+I'm a passionate _**Full Stack Developer**_ focused on building modern, scalable, and user friendly, high performance web applications.
 I enjoy transforming ideas into polished digital products with beautiful UI, clean architecture, and reliable backend systems.
 
 
@@ -19,6 +19,7 @@ I enjoy transforming ideas into polished digital products with beautiful UI, cle
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,supabase,tailwind,aws,figma"/>
+
 </p>
 
 
