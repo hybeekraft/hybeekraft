@@ -1,53 +1,31 @@
-<div align="center">
-
-<img src="assets/banner.png" alt="Hybeekraft Banner" width="100%" />
-
-# 👋 Hi, I'm Hybeekraft
-
-### Full Stack Developer • Next.js • Node.js • MongoDB • TypeScript
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+beautiful+web+applications.;Full+Stack+Developer.;Next.js+%7C+Node.js+%7C+MongoDB.;Creating+products+that+solve+real+problems." />
-
-<p>
-<a href="https://github.com/hybeekraft">
-<img src="https://komarev.com/ghpvc/?username=hybeekraft&label=Profile%20Views&color=gold&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/hybeekraft?tab=followers">
-<img src="https://img.shields.io/github/followers/hybeekraft?logo=github&style=for-the-badge" />
-</a>
-
-</p>
-
-</div>
-
----
-
-# 🚀 About Me
-
-I'm a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
-
-I enjoy transforming ideas into polished digital products with beautiful UI, clean architecture, and reliable backend systems.
-
-Currently building products using:
-
-- ⚡ Next.js
-- ⚡ React
-- ⚡ TypeScript
-- ⚡ Node.js
-- ⚡ MongoDB
-- ⚡ Tailwind CSS
-- ⚡ Vercel
-
----
-
-# 🛠 Tech Stack
+<!-- ===========================
+      HERO BANNER
+============================ -->
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,tailwind,git,github,vscode,vercel,aws,docker,figma" />
-
+  <img src="./assets/banner.png" alt="Hybeekraft Banner" width="100%">
 </p>
+
+<h1 align="center">Hi 👋, I'm Hybeekraft</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;MongoDB+%7C+Supabase;Building+Modern+Web+Applications;Creator+of+Sposh+Appeal" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer** passionate about building modern, scalable and high-performance web applications.
+
+I enjoy transforming ideas into beautiful digital products with clean architecture and excellent user experience.
+
+- 🚀 Building production-ready web applications
+- 🌱 Currently learning **AWS, Docker, Kubernetes & System Design**
+- 💬 Ask me about **Next.js, React, Node.js, MongoDB, Supabase**
+- ⚡ I love solving real-world problems with code
 
 ---
 
@@ -55,88 +33,108 @@ Currently building products using:
 
 ## ✨ Sposh Appeal
 
-Luxury Salon Booking Platform
+Luxury salon booking platform built with modern technologies.
+
+**Tech Stack**
+
+- Next.js
+- React
+- Node.js
+- MongoDB
+- Supabase
+- Tailwind CSS
 
 ### Features
 
-- 📅 Online Appointment Booking
-- 👩 Admin Dashboard
+- 📅 Online Booking
+- 👩‍💼 Admin Dashboard
 - 📧 Email Notifications
 - 💳 Payment Integration
-- 📱 Mobile Responsive
-- ⚡ Lightning Fast
-- 🔒 Secure Authentication
+- 📱 Fully Responsive
 
-### Tech
+<p>
+<a href="https://sposhappeal.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-Next.js • MongoDB • Node.js • Tailwind CSS
-
-🔗 **Live Demo**
-
-https://sposhappeal.vercel.app
-
-🔗 **Repository**
-
-https://github.com/hybeekraft/sposhappeal
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hybeekraft&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hybeekraft&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybeekraft&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<a href="https://github.com/hybeekraft/sposhappeal">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
+</a>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌐 Portfolio Website
+
+Coming Soon...
+
+---
+
+## 📋 More Projects
+
+Stay tuned 👀
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hybeekraft&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,supabase,tailwind,git,github,vercel,vscode,figma"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hybeekraft&theme=tokyo-night" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hybeekraft&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybeekraft&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Currently Working On
+# 🔥 GitHub Streak
 
-- 🚀 Sposh Appeal Version 2
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=hybeekraft&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hybeekraft&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Currently Working On
+
+- 🚀 Sposh Appeal V2
 - 📊 Admin Analytics Dashboard
-- 🤖 AI-powered Booking Assistant
-- ☁️ AWS Deployment
-- ⚡ Performance Optimization
+- 💳 Subscription & Payment System
+- 🤖 AI Booking Assistant
 
 ---
 
 # 📚 Currently Learning
 
-- Docker
-- Kubernetes
-- AWS
-- Redis
-- CI/CD
-- System Design
+- ☁️ AWS
+- 🐳 Docker
+- ☸ Kubernetes
+- ⚙ CI/CD
+- 🧠 System Design
+- ⚡ Advanced TypeScript
 
 ---
 
@@ -144,39 +142,38 @@ https://github.com/hybeekraft/sposhappeal
 
 <p align="center">
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
 </a>
 
-<a href="mailto:you@example.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://x.com/yourhandle">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Fun Facts
+# 👀 Profile Views
 
-- 💻 I enjoy building products people love.
-- 🎨 UI/UX matters just as much as clean code.
-- ☕ Coffee and late-night coding sessions fuel my creativity.
-- 🚀 Always learning and improving.
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hybeekraft&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ Thanks for stopping by!
+> **"Code is not just what I do — it's how I create impact."**
 
-_"Code is more than writing software—it's about solving problems and creating impact."_
-
-</div>
+</p>
