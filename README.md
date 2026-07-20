@@ -20,8 +20,8 @@ I enjoy transforming ideas into polished digital products with beautiful UI, cle
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,supabase,tailwind,aws,figma"/>
-
 </p>
+
 
 
 ## 🚀 Featured Projects
@@ -29,10 +29,9 @@ I enjoy transforming ideas into polished digital products with beautiful UI, cle
 ### ✨ Sposh Appeal
 
 Luxury Salon Booking Platform
-sposhappeal.vercel.app
+https://sposhappeal.vercel.app
 
 #### Features
-
 - 📅 Online Appointment Booking
 - 👩 Admin Dashboard
 - 📧 Email Notifications
