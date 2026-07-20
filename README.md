@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -18,7 +17,6 @@ I'm a passionate **Full Stack Developer** focused on building modern, scalable, 
 
 I enjoy transforming ideas into polished digital products with beautiful UI, clean architecture, and reliable backend systems.
 
----
 
 ## 🛠 Languange and Tools
 
@@ -27,7 +25,6 @@ I enjoy transforming ideas into polished digital products with beautiful UI, cle
 
 </p>
 
----
 
 ## 🚀 Featured Projects
 
@@ -49,7 +46,6 @@ Luxury Salon Booking Platform
 
 https://sposhappeal.vercel.app
 
----
 
 <div align="center">
 
