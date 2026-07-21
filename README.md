@@ -6,22 +6,18 @@
 
 </div>
 
-
 ## 🚀 About Me
 
 I'm a passionate _**Full Stack Developer**_ focused on building modern, scalable, and user friendly, high performance web applications.
 I enjoy transforming ideas into polished digital products with beautiful UI, clean architecture, and reliable backend systems.
 
-
 ## 🛠 Languange and Tools:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express"/>
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,tailwind,git,aws,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,react,ts,js,nodejs"/>
+<img src="https://skillicons.dev/icons?i=express,mongodb,supabase,tailwind,git,aws,figma"/>
 
 </p>
-
-
 
 ## 🚀 Featured Projects
 
@@ -39,7 +35,6 @@ https://sposhappeal.vercel.app
 - 📱 Mobile Responsive
 - ⚡ Lightning Fast
 - 🔒 Secure Authentication
-
 
 <div align="center">
 
